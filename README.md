@@ -1,5 +1,4 @@
-# DanilTolmachev-portfolio
-# 👨‍ Portfolio: Danil Tolmachev
+# Portfolio: Danil Tolmachev
 
 Python/PyQt разработчик интерфейсов с опытом создания кроссплатформенных desktop-приложений для работы с данными в реальном времени.
 
