@@ -12,7 +12,7 @@ Python/PyQt разработчик интерфейсов с опытом соз
 |:--|:---|:---|:---|
 | 1️⃣ | [ГНСС Навигационная система](projects/01-gnss-navigation/) | Python, PyQt5, NMEA 0183, pyqtgraph | Real-time UI, многопоточность, протоколы |
 | 2️⃣ | [Анемометр (ветровой датчик)](projects/02-anemometer/) | Python, PyQt5, Serial | Работа с оборудованием, калибровка |
-| 3️⃣ | [ИИ-плагин для PyCharm](projects/03-pycharm-ai-plugin/) | Kotlin, Python, Ollama | Автоматизация IDE, AI-интеграция |
+| 3️⃣ | [ИИ-плагин для PyCharm](projects/03-pycharm-ai-plugin/) | Kotlin, Python | Автоматизация IDE, AI-интеграция |
 
 ---
 
