@@ -1,2 +1,2 @@
-# danil-tolmachev-portfolio
+# DanilTolmachev-portfolio
 Портфолио PyQt5/Python разработчика
